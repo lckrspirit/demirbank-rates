@@ -1,3 +1,3 @@
 ### demirbank-rates
 ***
-Parse exchange cources from demirbank.kg
+Parsed exchange cources from demirbank.kg
